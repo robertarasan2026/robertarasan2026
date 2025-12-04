@@ -1,5 +1,5 @@
 ## Hi! My name is Roberto Araujo👋
-I am a specialist in modeling and data analysis, with a strong background in physics and scientific computing. I hold a Bachelor’s degree in Physics and am currently completing a Master’s degree in Water Science, where I specialize in modeling of real-world hydrological systems.
+I am a specialist in computational modeling and data analysis, with a strong background in physics and scientific computing. I hold a Bachelor’s degree in Physics and am currently completing a Master’s degree in Water Science, where I specialize in modeling of real-world hydrological systems.
 
 My academic training has provided me with solid foundations in physics, mathematics, and scientific programming, which I apply to numerical simulations, statistical analysis, and data-driven modeling.
 
