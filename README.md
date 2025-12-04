@@ -3,7 +3,7 @@ I am a specialist in modeling and data analysis, with a strong background in phy
 
 My academic training has provided me with solid foundations in physics, mathematics, and scientific programming, which I apply to numerical simulations, statistical analysis, and data-driven modeling.
 
-Research Interests
+## Research Interests
 
 Scientific Programming
 
@@ -17,7 +17,7 @@ Optimization Techniques
 
 Machine Learning
 
-Programming Languages
+## Programming Languages
 
 Python
 
